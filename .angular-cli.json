@@ -19,7 +19,9 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "sm",
       "styles": [
-        "styles.css"
+        "styles.css",
+        "css/material-dashboard.css",
+        "css/demo.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
